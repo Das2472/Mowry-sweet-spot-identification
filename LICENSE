@@ -1,0 +1,35 @@
+Copyright (c) 2026 Himadri Shakher Das, Emmanuel C. Obasi, and Soheil Saraji,
+University of Wyoming. All Rights Reserved.
+
+This repository and all of its contents — including code, scripts, notebooks,
+data files, and associated materials — are made available publicly for the sole
+purpose of supporting transparency, peer review, and reproducibility of the
+associated publication:
+
+Das, H. S., Obasi, E. C., & Saraji, S. "Data-driven Sweet Spot Identification in
+the Mowry Formation: Integrating Machine Learning and Geostatistical Modeling.".
+
+PERMITTED USE
+Permission is granted to view, download, and execute the contents of this
+repository solely for the purpose of evaluating and reproducing the results of
+the associated publication.
+
+RESTRICTIONS
+Without the prior written permission of the authors, you may NOT:
+  - reuse, adapt, modify, or incorporate any part of this repository (including
+    the code, models, or data) into other research, publications, software,
+    products, or datasets;
+  - redistribute, republish, or sublicense any part of this repository;
+  - use any part of this repository, in whole or in part, for commercial purposes;
+  - create derivative works based on this repository.
+
+The trained machine-learning models remain the property of the authors and the University of Wyoming.
+Any use of the materials in this repository beyond viewing, evaluation, and reproduction of the
+associated publication requires prior written permission from the corresponding author.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THESE MATERIALS.
+
+For permissions and inquiries, contact: Soheil Saraji, University of Wyoming,
+ssaraji@uwyo.edu.
