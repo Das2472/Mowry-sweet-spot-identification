@@ -46,7 +46,7 @@ The `calibration_data/` folder contains the datasets used for development and ev
 - `Tmax modeling data.xlsx`
 - `S1 modeling data.xlsx`
 - `S2 modeling data.xlsx`
-- `The las final FI for modeling.xlsx`
+- `The last final FI for modeling.xlsx`
 
 These files contain the corresponding model inputs and calibration targets used in the modeling workflow.
 
